@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexsharonl
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alexsharonpb@gmail.com
 
